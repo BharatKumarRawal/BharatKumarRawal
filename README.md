@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Bharat Kumar Rawal</h1>
-<h3 align="center">A passionate python programmer from Nepal</h3>
+<h3 align="center">A passionate frontend Developer from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharatkumarrawal" alt="bharatkumarrawal" /></a> </p>
 
-- 🌱 I’m currently learning **python programming**
+- 🌱 I’m currently learning **React** and **Python*
 
-- 👯 I’m looking to collaborate on **python projects**
+- 👯 I’m looking to collaborate on **frontend**
 
 - 📫 How to reach me **rawalb494@gmail.com**
 
