@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharatkumarrawal" alt="bharatkumarrawal" /></a> </p>
 
-- 🌱 I’m currently learning **React** and **Python*
+- 🌱 I’m currently learning **NodeJs**,**ExpressJs* and **MongoDB*
 
-- 👯 I’m looking to collaborate on **frontend**
+- 👯 I’m looking to collaborate on **frontend projects**
 
 - 📫 How to reach me **rawalb494@gmail.com**
 
