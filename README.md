@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **rawalb494@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: rawalb494@gmail.com </h3>
+<h3 align="left">Connect at LinkedIn: https://www.linkedin.com/in/bharat-rawal-b97308199/ </h3>
 <p align="left">
 </p>
 
